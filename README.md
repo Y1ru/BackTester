@@ -1,4 +1,4 @@
-# S&P 500 Trading Strategy Backtester
+# Trading Strategy Backtester
 
 A Python-based trading strategy backtester that implements a key-level breakout strategy for the S&P 500 index.
 
